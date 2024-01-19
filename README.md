@@ -10,7 +10,7 @@ This dataset, sourced from https://www.kaggle.com/datasets/sadiqshah/bike-sales-
 
 #### Key Insights:
 
-* Average Income per Purchase:
+#### Average Income per Purchase:
   For males who purchased a bike, the average income is $60,000, compared to $56,000 for those who did not. Females who bought a bike had an average income of $55,000, while     those who did not stood at $53,000. Notably, individuals who did not purchase a bike generally earned less than those who made a purchase.
 
 * Commute Distance:
